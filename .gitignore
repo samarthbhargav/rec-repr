@@ -1,3 +1,11 @@
+
+/datasets
+/raw_goodreads
+/.data_cache
+/logs
+/test_results
+/.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,8 @@
+{
+  "model_name": "multvae",
+  "dims": "600,600,200",
+  "input_dropout": 0.5,
+  "non_linearity": "relu",
+  "anneal_cap": 0.2,
+  "total_anneal_steps": 20
+}
